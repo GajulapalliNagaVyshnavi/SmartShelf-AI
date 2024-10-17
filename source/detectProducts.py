@@ -1,8 +1,8 @@
 """
-Author: Haripreeth Avarur
+Author: Gajulapalli Naga Vyshnavi
 Date: 12/09/2024
 Version: 1
-Contact: hari.avarur@gmail.com
+Contact: nvyshnavi36@gmail.com
 Description: YOLO-based inference script for detecting objects in images.
 """
 
