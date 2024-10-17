@@ -1,8 +1,8 @@
 """
-Author: Haripreeth Avarur
+Author: Gajulapalli Naga Vyshnavi
 Date: 12/09/2024
 Version: 2
-Contact: hari.avarur@gmail.com
+Contact: nvyshnavi36@gmail.com
 Description: Code for grouping products based on ResNet feature extraction and SSIM clustering using HDBSCAN.
 """
 
